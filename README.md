@@ -1,6 +1,6 @@
 # Aircraft Data Processing
 
-This project contains scripts for generating and processing aircraft data. It includes functionality to create sample datasets with realistic data issues for testing data cleaning and processing workflows.
+The project contains scripts for generating and processing aircraft data. It includes functionality to create sample datasets with realistic data issues for testing data cleaning and processing workflows.
 
 ## Features
 
